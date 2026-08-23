@@ -1,0 +1,8 @@
+{
+    "id": "auto-whip-stacking",
+    "name": "Auto Whip Stacking",
+    "version": "1.0.0",
+    "author": "AutumnVN",
+    "description": "Automatically switch between whips while attacking.",
+    "entry_dll": "AutoWhipStacking.dll"
+}
